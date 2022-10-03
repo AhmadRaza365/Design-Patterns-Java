@@ -2,7 +2,7 @@
 
 Lab work is organized in folders, each folder represents lab work of particular date.
 
-| Design Pattern | Folder Name | Link             |
-| -------------- | ----------- | ---------------- |
-| Name           | path        | [Title](abc.com) |
-| Name           | path        | [Title](abc.com) |
+| Design Pattern                  | Folder Name | Link                                                                               |
+| ------------------------------- | ----------- | ---------------------------------------------------------------------------------- |
+| interface segregation principle | 29September | [Link](https://github.com/AhmadRaza365/Design-Pattern-Lab/tree/master/29September) |
+| Factory Design                  | 3-October   | [Link](https://github.com/AhmadRaza365/Design-Pattern-Lab/tree/master/3-October)   |
